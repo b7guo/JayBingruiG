@@ -20,4 +20,4 @@ class BingruiGuo {
 ```
 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=JayBingruiG.JayBingruiG)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=b7guo.b7guo)
